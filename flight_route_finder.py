@@ -34,3 +34,5 @@ if route:
     print("Total routes explored:", explored)
 else:
     print("No route found")
+
+print("Total routes explored:", explored)
